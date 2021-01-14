@@ -1,0 +1,28 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>Transcription</title>
+   <respStmt>
+    <resp>transcrit par</resp>
+    <name></name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor></distributor>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>No print source exists: this is an original digital text</bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+ 
+ <text>
+  <body>
+   <div>
+       
+   </div>
+  </body>
+ </text>
+</TEI>
