@@ -1,0 +1,148 @@
+
+           
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+      <title>Le Graal trouve le Graal</title>
+   <respStmt>
+    <resp>transcrit par </resp>
+    <name>Shiyuan Ma</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <availability>This is an open access work licensecd under a Creative Commons Attribution 4.0 International license</availability>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Paris, Bnf, français 112</bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+ <text>
+  <body>
+   <div>
+       <pb n="181r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f369.item" /> <cb n="181ra" />     
+       <lb/><p><rubric id="incipit">Comment galaad en entrant en la cite
+       <lb/>Requist vng pouure ho<ex>mm</ex>e contrait qui luy
+       <lb/>aydast Lequel fut guery Incontinant quil 
+       <lb/>coucha ala table du saint graal et le s<ex>eigneu</ex>r
+       <lb/>delacite les fit mettre e<ex>n</ex> p<ex>r</ex>iso<ex>n</ex> ou jls demore<ex>re</ex>nt.<num>i</num>.an</rubric></p>
+       <lb/><note resp="Shiyuan Ma">L’illustration couvre environ 15 lignes</note> 
+       <lb/><p><g type="initiale">Q</g><note resp="Shiyuan Ma">La lettrine couvre 3 lignes</note>uant galaad vint prez delui silappella
+       <lb/>et dist preudoms aide moy tant q<ex>ue</ex> ceste
+       <lb/>table soit en ce palais lassus. ha sire 
+       <lb/>pour dieu que dictes vous jl abien /<num>x</num>/ ans que
+       <lb/>je ne peux aler sanz aide dautruy Ne ten chaille
+       <lb/>faitil. lieue sus tu es guery Et jl se lieue aussi
+       <lb/>sain et aussi haoictie co<ex>m</ex>me jl neust onq<ex>ue</ex>s eu mal 
+       <lb/>ne douleur. Lors vient alatable et laprant       
+       <lb/>dune part cont’galaad Qua<ex>n</ex>t ilz entrent enla
+       <lb/>cite siva disant atous ceulx quilencontre le       
+       <lb/>miracle / que dieu luy afait / Qua<ex>n</ex>t jlz vindre<ex>n</ex>t  
+       <lb/>aupalaiz amont sivire<ex>n</ex>t lachance q<ex>ue</ex>n<ex>ost</ex>res<ex>eigneu</ex>r auoit
+       <lb/>jadiz appareillee pource que josephes si assist /  
+       <lb/>et mainten<ex>ant</ex> yacoururent ceulx delacite po<ex>u</ex>r veoir  
+       <lb/>la merueille delo<ex>m</ex>me mehaigne qui estoit re
+       <lb/>dresse nouuellement.</p>    
+       <lb/><p><g type="initiale">Q</g><note resp="Shiyuan Ma">La lettrine couvre 2 lignes</note>uant les compaignons eure<ex>n</ex>t saitce q<ex>ue</ex>
+       <lb/>co<ex>m</ex>mande leur estoit si reto<ex>u</ex>rnere<ex>n</ex>t aleaue 
+       <lb/>etentrerent en lanef ou la suer parceual estoit silaprene<ex>n</ex>t atout lelit et leporte<ex>n</ex>t aupalais et
+       <lb/>lenfoyrent si richement co<ex>mm</ex>e len deuoit faire
+       <lb/>fille de Roy et de Royne Quant le Roy de la cite
+       <pb n="181r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f369.item" /> <cb n="181rb"/>
+       <lb/>qui auoit nom escorant vit les <num>iii</num> co<ex>m</ex>paignons
+       <lb/>Sileur demanda dont ilz estoient et quel chose 
+       <lb/>cestoit quilz auoient apporte sur latable darge<ex>n</ex> t
+       <lb/>et ilz en dient laverite dequanque jl leur dema<ex>n</ex> da 
+       <lb/>et lamerueille dusaint graal et le pouoir que 
+       <lb/>dieux yeust uns Et cestui escorant qui estoit 
+       <lb/>desloyal et cruel et estrait de mauuaise lignee 
+       <lb/>depaiens si ne crut riens dequantquilz dient 
+       <lb/>Ains dist quilz estoient aucu<ex>n</ex>s traistres mau
+       <lb/>uais Si actendit tant quil lez vit desarmes /
+       <lb/>si lez fist prendre ases gens et mettre en sap<ex>r</ex>ison 
+       <lb/>En telle mani<ex>e</ex>r<ex>e</ex> que onques nen issirent de 
+       <lb/>dans lan mais de tant leur aduint il bien 
+       <lb/>que sitost co<ex>m</ex>me jlz furent emprisonnes n<ex>ost</ex>res<ex>eigneu</ex>r 
+       <lb/>qui ne les auoit pas oblies leur enuoya le 
+       <lb/>saint graal pour eulx faire compaignie dequi 
+       <lb/>grace ilz furent tousiours repeux tant co<ex>m</ex> me 
+       <lb/>jlz furent en prison.</p>
+       <lb/><p><g type="initiale">A</g><note resp="Shiyuan Ma">La lettrine couvre 2 lignes</note>uchief delan aduint vng jo<ex>u</ex> r quegalaad 
+       <lb/>se complaint an<ex>ot</ex>res<ex>eigneu</ex>r etdist Sire jl me 
+       <lb/>semble que jay asses demoure en cest siecle sil
+       <lb/>vous plaist ostes men prochainem<ex>en</ex>t Cellui jo<ex>u</ex>r 
+       <lb/>aduint que leroy escorant gisoit malades du 
+       <lb/>mal delamort Si les manda deua<ex>n</ex>t lui et le<ex>u</ex>r
+       <lb/>cria mercy dece quil les auoit si mal menes
+       <lb/>atort et jlz lui pardonnent moult volentiers 
+       <lb/>Et jl morut tout mainten<ex>ant</ex> Et quant il fut
+       <lb/>enterre ceulx delacite enfure<ex>n</ex>t m<ex>ou</ex>lt esmayes 
+       <lb/>Car ilz nesauoient dequi jlz peussent faire 
+       <lb/>roy. si se conseillerent moult gra<ex>n</ex>t piece etainsi 
+       <lb/>quilz estoient aconseil oyrent vne voix quile<ex>u</ex>r
+       <lb/>dist prenes lepluz jeune dez /<num>iii</num>/ co<ex>m</ex>paigno<ex>n</ex>s 
+       <lb/>Et cellui vous conseillera bien et gardera ta<ex>n</ex>t 
+       <lb/>co<ex>m</ex>me jl sera ovouz Et ilz firent leco<ex>m</ex>mandem<ex>en</ex>t
+       <lb/>alavoix Si prindrent galaad et fut seign<ex>eu</ex>r 
+       <lb/>deulx et lui mistrent lacoronne ou chief do<ex>n</ex>t 
+       <lb/>jl lui pesa moult Et pource quilvoit q<ex>ue</ex> faire
+       <lb/>lui co<ex>n</ex>vient leur octroya car aut<ex>re</ex>ment ilz leus
+       <lb/>sent occis Quant galaad fut venu at<ex>er</ex>re tenir 
+       <lb/>sifist pardessus latable vng arbre dor et depier 
+       <lb/>rez precieuses qui couurit lesaint graal et
+       <lb/>ch<ex>ascun</ex> matin sitost co<ex>mm</ex>e il estoit leue venoit de 
+       <lb/>uant lesaint vaissel et ses co<ex>m</ex>paigno<ex>n</ex>s et faisoie<ex>n</ex>t
+       <lb/>leurs pieres et leurs oroisons.</p>
+       <lb/><p><g type="initiale">Q</g><note resp="Shiyuan Ma">La lettrine couvre 2 lignes</note>uant vint auchief delan acellui jour 
+       <lb/>mesmes que galaad auoit porte cou
+       <lb/>ronne, sise leua bien matin ent<ex>re</ex> luy et ses com
+       <lb/>paignons Sivindrent au palais espirituel
+       <pb n="181v" facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f370.item" /> <cb n="181va" /> 
+       <lb/>Et Regarderent deuant lesaint vaissel. et virent
+       <lb/>vng ho<ex>m</ex>me en semblance deuesque siestoit agenolz
+       <lb/>et batoit sacoulpe et auoit entour luy plante 
+       <lb/>danges co<ex>m</ex>me sice fust jh<ex>es</ex>ucrist mesmes Etqua<ex>n</ex>t 
+       <lb/>jl eust grant piece este agenoulx. sise leua
+       <lb/>Et co<ex>m</ex>menca lamesse delaglorieuse mere dedieu 
+       <lb/>Et quant jl vint ausacrement delamesse et
+       <lb/>il eust oste laplatine dedessus lesaint vaissel
+       <lb/>Si appella galaad et luidist vien aua<ex>n</ex>t s<ex>e</ex>rge<ex>n</ex>t
+       <lb/>jh<ex>es</ex>ucrist si verras ce que tuas tantdesire
+       <lb/>aveoir et il se tire aua<ex>n</ex>t et regarde deua<ex>n</ex>t le
+       <lb/>saint vaissel Etsitost co<ex>m</ex>me jl leust regarde 
+       <lb/>sitost co<ex>m</ex>me la mortel char co<ex>m</ex>menca areg<ex>a</ex>rder 
+       <lb/>les espiritueles choses Etlors tend galaad 
+       <lb/>les mains vers leciel sidist Sire jete crie
+       <lb/>mercy quant tumas acompli mon vouloir
+       <lb/>Car or voy je appertement ce que langue
+       <lb/>ne pourroit escrire ne cuenr pe<ex>n</ex>ser jcy voy
+       <lb/>je loccasion des prouesses jcy voy je les mer
+       <lb/>ueilles detoutes les aut<ex>re</ex>s Etpuis quilest
+       <lb/>ainsi Beaux doulx sire que vo<ex>us</ex> maves a
+       <lb/>compli mon vouloir de veoir ce q<ex>ue</ex> jay tant 
+       <lb/>desire Orvous prie je que en cestui point
+       <lb/>eten ceste grant joye souffres q<ex>ue</ex> je t<ex>re</ex>spasse 
+       <lb/>deceste terrienne vie ou je suis en lacelestiele.</p>
+       <lb/><p><rubric id="incipit">C<ex>omment</ex> galaad morut deuant latable du saint
+       <lb/>graal et vint vne main qui emporta lala<ex>n</ex>ce
+       <lb/>et lesaint graal qui depuiz ne fut veu.</rubric></p>
+       <lb/><note resp="Shiyuan Ma">L’illustration couvre environ 17 lignes</note>
+       <lb/><p><g type="initiale">S</g><note resp="Shiyuan Ma">La lettrine couvre 2 lignes</note>i tost co<ex>m</ex>me galaad eust fait ceste req<ex>ue</ex>ste 
+       <lb/>Lepreudoms qui estoit vestu en sem
+       <lb/>blance deuesque print <foreign xml:lang="lat">Corpus d<ex>o</ex>m<ex>ini</ex></foreign> sur la
+       <pb n="181r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f369.item" /> <cb n="181rb" /> 
+       <lb/>table Si loffrist agalaad Etcil le receut etqua<ex>n</ex>t 
+       <lb/>jl lot vse lepreudoms luy dist Scez tu qui je 
+       <lb/>suisSire fait il nenil se vous nelemedictes
+       <lb/>Or saches fait il que je suis josephes lefilz
+       <lb/>joseph darimathie que n<ex>ost</ex>res<ex>eigneu</ex>r ta enuoye po<ex>u</ex>r 
+       <lb/>toy faire compaignie Et sces tu pourquoy 
+       <lb/>jl my aenuoye plustost que nul aut<ex>re</ex> pour 
+       <lb/>ce que tu me ressambles en /<num>ii</num>/ choses </p>
+  </div>
+ </body>
+</text>
+</TEI>
+
+           

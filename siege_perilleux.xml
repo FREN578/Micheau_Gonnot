@@ -1,0 +1,145 @@
+
+           
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+      <title>Le Siege Perilleux</title>
+   <respStmt>
+    <resp>This work is licensed under a Creative Commons Attribution 4.0 International License</resp>
+    <name>Girish Kumar Ramgulam</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor></distributor>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl></bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+ 
+ <text>
+  <body>
+   <div>
+         <pb n="3r" facs="http://gallica.bnf.fr / Bibliothèque nationale de France. Département des Manuscrits.
+Français 112 (3)" /> <cb n="3rb" />     
+
+       <rubric id="incipit">
+       <lb/><ex>Compte Messire</ex> galaad vint le
+       <lb/>Jour de <ex>Pentecoste</ex> a Camelot r sassit au siege 
+       <lb/>perilleux ou nul ne sestoit encore assis por
+       <lb/>les grans Dangiers qui y estoient que
+       <lb/>nul depuis que la table ronde fut levee
+       <lb/>nul ne siassit quil <ex>nen</ex> fut mort ou dure
+       <lb/>ment navre de son corps comme il
+       <lb/>advinc a mains chevaliers
+       </rubric>
+       
+         <pb n="3v" facs="http://gallica.bnf.fr / Bibliothèque nationale de France. Département des Manuscrits.
+Français 112 (3)" /> <cb n="3va"/>
+
+    <p>
+       <lb/>Sire chevalier assees vous cy sur
+       <lb/>cest siege est vostre Et il sassiet
+       <lb/>tout seulement et dist aupreu
+       <lb/><ex>Domme</ex> or vous en alles.
+       <lb/>Carbien auez fait ce quon
+       <lb/>vous commanda Et saluez moy
+       <lb/>tous ceulx du Saint hostel et mon oncle le Roy
+       <lb/>Pelles Et mon ayeul le Riche pescheur et luy
+       <lb/>dictes depar moy que je liray veoir au plus
+       <lb/>tost que je pourray et que jen aray loisir.
+       <lb/>Et lepreudoms sen part deleans et <ex>commande</ex>
+       <lb/>le roy artus adieu et tous les autres aussi
+       <lb/>Et quant on voult savoir qui il estoit
+       <lb/>ne tint onques resne ceulx ains leur <ex>respon</ex>
+       <lb/>dit qil nen droit ore plus Car il le sauro
+       <lb/>ient bien atemps se ilz losoient demander
+       <lb/>Si vient aual du palais et troua <ex>qui chevaliers</ex>
+       <lb/>que escviez jusques axv qui <ex>lactendoient</ex>
+       <lb/>et lesqueulx estoient oluy Et il monte et se
+       <lb/>part deleans en telle maniere quilz nesteu
+       <lb/>rent plus deson estre a celle foiz.
+    </p>
+    <p>
+       <lb/>Quent ceulx du palais <ex>virent</ex> le <ex>chevalier</ex>
+       <lb/>seoir au siege que tant de <ex>preudommez</ex>
+       <lb/>auoient redoubte et ouquel dauentures 
+       <lb/>estoient sa aduenues s'en ont <ex>grant</ex> mer
+       <lb/>ueille Car ilz croient celluy <ex>homme</ex> si ne
+       <lb/>sceurent que dire dont sigrant grace luy
+       <lb/>est venive sice nest de la volente nostre seigneur. La
+       <lb/>feste fut grande par leans si font <ex>grant</ex>
+       <lb/>honneur au<ex>chevalier</ex> ly vns ly <ex>autres</ex> car
+       <lb/>bien pensoient que ce soit cil par qui
+       <lb/>les auentures du sang graal doiuent
+       
+    <cb n="3vb"/>
+
+       <lb/>Aillir Et bien lecoignoit soient par lespreuue du
+       <lb/>siege ou onques homs ne fut assis aqui il ne
+       <lb/>fust mescheu en <ex>aucune</ex> maniere nemais ace
+       <lb/>ftuy Si leseruent et honnourent detout ce
+       <lb/>quilz peuent <ex>comme</ex> celluy quilz se tiennent
+       <lb/> aseigneur et amaistre par dessus ceulx de
+       <lb/>latable ronde Et lancelot qui plus <ex>volontiers</ex>
+       <lb/>le regarde que nul des <ex>autres</ex> pour le mer
+       <lb/>ueille quil en a cognoist bien que cest cel
+       <lb/>luy quil fist huy <ex>chevalier</ex> nouuel s'en a moult
+       <lb/>grant joye Et pource luy fait legreigneur
+       <lb/>honneur quil oncques peut Et lemet en
+       <lb/>paroles demaintes choses et luy demande
+       <lb/>son estre quil en die <ex>aucune</ex> chose Et celluy
+       <lb/>qui auques lecognoist ne luy ose reffuser
+       <lb/>Si lui respont maintesfois ace quil luy
+       <lb/>demande Mais Boort qui tant en est lies
+       <lb/>que nul plus et que bien cognoist que cest
+       <lb/>galaad lefilz lancelot cellui parcequi les <ex>auen</ex>
+       <lb/>tures seront mises achief parla alionnel
+       <lb/>son cousin frere et puis lui dist Biaux
+       <lb/>freres saues vous qui est ce <ex>chevalier</ex>. Non fait
+       <lb/>lionnel monlt bien fors tant que cest celuy
+       <lb/>que <ex>messire</ex> lancelot fist hui <ex>chevalier</ex> nouvel
+       <lb/>Et celluy qui entre moy et vous deismes
+       <lb/>que messire lancelot engendra en la fille
+       <lb/>le Roy pescheur ainsi <ex>comme</ex> luy avoit sa
+       <lb/>compte par maintesfoiz et dist <ex>vrayement</ex>
+       <lb/>fait Boort cest celluy et est <ex>nostre</ex> cousin pro
+       <lb/>chain Et de ceste auenture deuons nous
+       <lb/>estre bien lies Car nest mie doubte.
+       <lb/>quil ne viengne encores aplus grant 
+       <lb/>chose que <ex>chevalier</ex> se onques rognensse
+       <lb/>Si a la tant laparole que lauoyne qui
+       <lb/>estoit en sa chambre enoy parles par vng
+       <lb/>varlet qui lui dist Dame merueilles
+       <lb/>sont venues Comment fet elle dy lez moy
+       <lb/>Parfoy fait il vngs <ex>chevalier</ex> est enu acouet
+       <lb/>qui aacomply lesiege perilleux Etle<ex>chevalier</ex>
+       <lb/>est si jeunes que tous se merueillent
+       <lb/>dont telle grace luy peut estre venue.
+       <lb/>Voire fait elle peut ce estre vuiy. oil
+       <lb/>de vray lesaches En nom dieu fait elle
+       <lb/>dont luy est il bien aduenu Car on <ex>quis</ex>
+       <lb/>celle auenture ne peut nul <ex>chevalier</ex> entrepren
+       <lb/>dre qui ne fust mort ou mehaignie
+       <lb/>ainis quil eust mene affin. Ha dieux
+       <lb/>font les dames tant fu ce <ex>chevalier</ex> de bonne
+       <lb/>heure ne onques mais nul ne peut ad
+       <lb/>uenir a ce quil est aduenu. et par ceste
+       
+          <pb n="4v" facs="http://gallica.bnf.fr / Bibliothèque nationale de France. Département des Manuscrits.
+Français 112 (3)" /> <cb n="4va"/>
+       
+       <lb/>auenture peut on apperceuoir que cest celluy
+       <lb/>Qui mectra les merueilles de la table ronde
+       <lb/>affin Et par quy le Roy mehaignie recevra
+       <lb/><ex>garison</ex>. 
+
+</div>
+</body>
+</text>
+</TEI> 
+
+           
