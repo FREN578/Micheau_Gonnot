@@ -389,3 +389,8 @@ TEI-g[type="exposant"] {
 TEI-g[type="pied-de-mouche"]::before {
     content: '❡';
 }
+
+
+TEI-hi[rend="strike"] {
+    text-decoration: line-through
+}
