@@ -35,6 +35,7 @@ Français 112 (3)" /> <cb n="3rb" />
        <lb/>nul ne siassit quil <ex>nen</ex> fut mort ou dure
        <lb/>ment navre de son corps comme il
        <lb/>advinc a mains chevaliers
+           <lb/>
        </rubric>
        
          <pb n="3v" facs="http://gallica.bnf.fr / Bibliothèque nationale de France. Département des Manuscrits.
@@ -64,7 +65,7 @@ Français 112 (3)" /> <cb n="3va"/>
        <lb/>rent plus deson estre a celle foiz.
     </p>
     <p>
-       <lb/>Quent ceulx du palais <ex>virent</ex> le <ex>chevalier</ex>
+       <lb/>Quant ceulx du palais <ex>virent</ex> le <ex>chevalier</ex>
        <lb/>seoir au siege que tant de <ex>preudommez</ex>
        <lb/>auoient redoubte et ouquel dauentures 
        <lb/>estoient sa aduenues s'en ont <ex>grant</ex> mer
@@ -75,7 +76,7 @@ Français 112 (3)" /> <cb n="3va"/>
        <lb/>honneur au<ex>chevalier</ex> ly vns ly <ex>autres</ex> car
        <lb/>bien pensoient que ce soit cil par qui
        <lb/>les auentures du sang graal doiuent
-       
+      <lb/> 
     <cb n="3vb"/>
 
        <lb/>Aillir Et bien lecoignoit soient par lespreuue du
@@ -128,7 +129,7 @@ Français 112 (3)" /> <cb n="3va"/>
        <lb/>font les dames tant fu ce <ex>chevalier</ex> de bonne
        <lb/>heure ne onques mais nul ne peut ad
        <lb/>uenir a ce quil est aduenu. et par ceste
-       
+       <lb/>
           <pb n="4v" facs="http://gallica.bnf.fr / Bibliothèque nationale de France. Département des Manuscrits.
 Français 112 (3)" /> <cb n="4va"/>
        
@@ -136,7 +137,8 @@ Français 112 (3)" /> <cb n="4va"/>
        <lb/>Qui mectra les merueilles de la table ronde
        <lb/>affin Et par quy le Roy mehaignie recevra
        <lb/><ex>garison</ex>. 
-
+<lb/>
+       </p>   
 </div>
 </body>
 </text>
