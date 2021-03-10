@@ -25,13 +25,13 @@
     <pb n="f. 144r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f295.item"/> 
      <cb n="f. 144ra"/>
        <p>
-        <lb/><rubric id="incipit">:Comment tristan vint en cornoaille, et
-        <lb/>le navra <del rend="strikethrough">le</del> mort le Roy marc en trayson</rubric>      
+        <lb/><rubric>:Comment tristan vint en cornoaille, et
+        <lb/>le naura <hi rend="strike">le</hi> mort le Roy marc en trayson</rubric>      
         <lb/><g type="initiale" rend="blue">E</g>T quant le Roy eust fait ce cop il sen
         <lb/>fouy et quant tristan se sent feru
         <lb/>Il cognut bien quil estoit feru amort Si sen
-        <lb/>vint alacourt et sault sur ung chevalquil
-        <lb/>trouva et se deppart detintaguel et sen vient
+        <lb/>vint alacourt et sault sur ung cheualquil
+        <lb/>trouua et se deppart detintaguel et sen vient
         <lb/>auchastel dynas et se couche et dit q'l estoit
         <lb/>mort sans faille. Quant dynas le voit ai<ex>n</ex>si
         <lb/>atourne il en est trop doulent et sagremor
@@ -43,7 +43,7 @@
         <lb/>Tristan se plaing qui grant mal sent Il
         <lb/>souspire et ploure Tristan se demente et
         <lb/>amaigrist sigue nul ne le recognoist qui
-        <lb/>devant leust veu Il ne se peut maiz Remuer 
+        <lb/>deuant leust veu Il ne se peut maiz Remuer 
         <lb/>co<ex>m</ex>me vng ho<ex>m</ex>me hors du sens Et ceulx q<ex>ui</ex>
         <lb/>entour luy estoient si plouroient de Jour
         <lb/>et de nuyt pour lamour deluy Quant
@@ -51,27 +51,27 @@
         <lb/>le Roy marc oyt et entendit que tristan se moroit
         <lb/>et quil nen pouoit eschapper plus en est lies quil
         <lb/>nefut mais pieca . or a Joye et liesse Car bien luy
-        <lb/>est advis que tristan est mort et quil ne trou
+        <lb/>est aduis que tristan est mort et quil ne trou
         <lb/>veroit jamais ho<ex>m</ex>me en cornoaille qui contre
         <lb/>luy sosast dressier Or a il son vouloir. q<ex>ua</ex>nt
         <lb/>il scet certainement que trista<ex>n</ex> meurt Il e<ex>n</ex>voye
-        <lb/><choice><abbr>clm</abbr><expan>chascun</expan></choice> Jour scavoir co<ex>m</ex>ment tristan le fait.
-        <lb/>Et len luy apporte nouvelles qui moult luy
+        <lb/><choice><abbr>clm</abbr><expan>chascun</expan></choice> Jour scauoir co<ex>m</ex>ment tristan le fait.
+        <lb/>Et len luy apporte nouuelles qui moult luy
         <lb/>plaisent Car len luy dit quil ne peut logue
-        <lb/>ment vivre Grant Joye a le Roy marc on
-        <lb/>ques ne fut si lies dechose qui luy advenist 
+        <lb/>ment viure Grant Joye a le Roy marc on
+        <lb/>ques ne fut si lies dechose qui luy aduenist 
         <lb/>Et andret tressault degrant Joye Ces <num>ii</num>
         <lb/>en font Joye pleniere. mais quiqui en soye
         <lb/>lies la Royne yseult en est corroussee elle
         <lb/>ploure et fait grant duel et dit q<ex>ue</ex>lle soccira
-        <lb/>de ses mains Car apres trista<ex>n</ex> elle ne vivra
+        <lb/>de ses mains Car apres trista<ex>n</ex> elle ne viura
         <lb/>Ja ung seul Jour . ainsi se contiennent di
         <lb/>versement enr<ex>re</ex> le Roy marc et la Royne yseult
         <lb/>Car le Roy est lies de lamort trista<ex>n</ex> et la Royne 
         <lb/>en est tant dolent qua peu quelle nen meurt
         <lb/>deduel Et tout soit le Roy marc Joyeux de celle
         <lb/>mort si dist ilbien quil verroit volent<ex>ier</ex>s
-        <lb/>tristan avant quil morust Et audarnier
+        <lb/>tristan auant quil morust Et audarnier
         <lb/>quant len ly compte co<ex>m</ex>ment lamale fin
         <lb/>trista<ex>n</ex> meme et co<ex>m</ex>ment il est du tout cha<ex>n</ex>ge
         <lb/>que nul ne lecognoist tant estoit empires
@@ -80,7 +80,7 @@
         <lb/>Certes cest dommages delamort trista<ex>n</ex>
         <lb/>Et sil ne se fust si desloyalment menes
         <lb/>vers moy len le deust priser par dessus
-        <lb/>tous ch<ex>eva</ex>l<ex>ie</ex>rs Quant le Roy marc sot certai
+        <lb/>tous ch<ex>eua</ex>l<ex>ie</ex>rs Quant le Roy marc sot certai
         <lb/>nement par ceulx qui laloyent veoir que
         <lb/>trista<ex>n</ex> aloit afin a dont se co<ex>m</ex>mence aRepe<ex>n</ex>
         <lb/>tir de cellui fait et dit que de ceste mort 
@@ -90,9 +90,9 @@
         <lb/>veu pource que nature len semonst Et
         <lb/>la Royne meme son duel Jour et nuyt Car
         <lb/>elle vouldroit bien que le Roy loccist si fineroit
-        <lb/>du tout son duel Et quant les nouvelles
+        <lb/>du tout son duel Et quant les nouuelles
         <lb/>viennent que trista<ex>n</ex> trait alafin etquil
-        <lb/>ne vivera que <num>ii</num> Jours ou <num>iii</num> . la Royne se
+        <lb/>ne viuera que <num>ii</num> Jours ou <num>iii</num> . la Royne se
         <lb/>dit meure quant dieu plaira car certes
         <lb/>je luy feray compaignie Telles paroles
         <lb/>disoit laRoyne quant len lui disoit q<ex>ue</ex> trista<ex>n</ex>
@@ -106,16 +106,16 @@
         <lb/>que Je meure Et sil me veult veoir en vie
         <lb/>viengne hastiuement dynas mande deliuree
         <lb/>ment le Roy etle message ala aluy qui luy
-        <lb/>compta ces nouvelles.</p>
-        <lb/><p><g type="initiale" rend="gold">Q</g>uant le Roy marc oyt la nouvelle Il 
+        <lb/>compta ces nouuelles.</p>
+        <lb/><p><g type="initiale" rend="gold">Q</g>uant le Roy marc oyt la nouuelle Il 
         <lb/>co<ex>m</ex>mence aplourer moult fort et dit
-        <lb/>halas co<ex>m</ex>me Jay mal fait qui mon nepveu 
+        <lb/>halas co<ex>m</ex>me Jay mal fait qui mon nepueu 
         <lb/>ay occis. le Roy monta et maine telle com
         <lb/>paignie quil soit bien asseur au chastel dy
         <lb/>nas et ent<ex>re</ex> dedens moult doulent et sen vie<ex>n</ex>t
         <lb/>alachambre ou trista<ex>n</ex> gisoit si empiries
         <lb/>que le Roy ne le pouoit cognoistre Quant 
-        <lb/>trista<ex>n</ex> vit le Roy venir Il se vouloit lever
+        <lb/>trista<ex>n</ex> vit le Roy venir Il se vouloit leuer
         <lb/>en son seant mais Il ne pot car trop estoit
         <lb/>faibles Oncle dist il vous soies lebien venu
         <lb/>vous estes venus amadarniere feste ama
@@ -128,14 +128,14 @@
         <lb/>Il co<ex>m</ex>mence aplourer etleRoy pleure daut<ex>re</ex>
         <lb/>part Oncle dist il ne ploures pas mais ta<ex>n</ex>t
         <lb/>faites pour lamour demoy que vo<hi rend="superscript">9</hi> madame
-        <lb/>yseult fectes venir devant moy sique Je la 
+        <lb/>yseult fectes venir deuant moy sique Je la 
         <lb/>voye amafin Et ceste chose si est madarnie<ex>re</ex>
-        <lb/>requeste Beau nepveu dist le Roy vo<hi rend="superscript">9</hi> vou
+        <lb/>requeste Beau nepueu dist le Roy vo<hi rend="superscript">9</hi> vou
         <lb/>les que laRoyne viengne avous et elle vien 
         <lb/>dra mainten<ex>ant</ex> et il lenuoye guerre et elle
         <lb/>vint corroucee et doulante car onq<ex>ue</ex>s ne de
         <lb/>sira tant la mort com elle fait Car orendroit
-        <lb/>aver trista<ex>n</ex> vouldroit elle mourir Qua<ex>n</ex>t
+        <lb/>auec trista<ex>n</ex> vouldroit elle mourir Qua<ex>n</ex>t
         <lb/>tristan voit venir yseult quil avoit tant
         <lb/>amee volentierz se dressast cont<ex>re</ex>luy maiz
         <lb/>il ne pouoit dame distil bien viengnes
@@ -152,7 +152,7 @@
         <lb/>point q<ex>ue</ex> il ne dit nepl9 ne moins alaRoyne
     <cb n="f. 144vb"/>                          
         <lb/>Si est tant doulente quelle ne demande q<ex>ue</ex> lamort
-        <lb/>Elle est toutefuoies devant luy celluy soir et
+        <lb/>Elle est toutefuoies deuant luy celluy soir et
         <lb/>toute lanuyt</p>  
    </div>
   </body>

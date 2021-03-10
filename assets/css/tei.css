@@ -321,6 +321,12 @@ TEI-hi {
 }
 
 
+TEI-g[type="initiale"] {
+    display: inline;
+    font-size: 1.5em;
+    color: blue;
+}
+
 TEI-num {
     display: inline;
     font-variant: small-caps;
@@ -389,6 +395,8 @@ TEI-g[type="exposant"] {
 TEI-g[type="pied-de-mouche"]::before {
     content: '❡';
 }
+
+
 
 
 TEI-hi[rend="strike"] {
