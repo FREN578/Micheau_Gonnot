@@ -395,7 +395,12 @@ TEI-g[type="pied-de-mouche"]::before {
 }
 
 
-
+TEI-hi[rend="superscript"] {
+    font-size: 80%;
+    vertical-align: super;
+    position: relative;
+    top: -0.4em;
+}
 
 TEI-hi[rend="strike"] {
     text-decoration: line-through
