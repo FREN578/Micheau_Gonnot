@@ -4,102 +4,102 @@ p.break {
   border-top: thin solid silver;
   color: gray;
 }
-tei-byline {
+TEI-byline {
   display: block;
   text-align: center;
 }
-tei-closer {
+TEI-closer {
   display: block;
 }
-tei-closer>tei-salute {
+TEI-closer>TEI-salute {
   display: block;
 }
-tei-closer>tei-signed {
+TEI-closer>TEI-signed {
   display: block;
   text-align: right;
 }
-tei-div {
+TEI-div {
   display: block;
 }
-tei-div[type=dedication]>tei-lg {
+TEI-div[type=dedication]>TEI-lg {
   margin: auto;
   text-align: center;
 }
-tei-docauthor {
+TEI-docauthor {
   display: block;
   text-align: center;
 }
-tei-docauthor>tei-name {
+TEI-docauthor>TEI-name {
   display: block;
   font-size: 2em;
 }
-tei-docimprint {
+TEI-docimprint {
   display: block;
   margin-top: 10em;
   text-align: center;
 }
-tei-doctitle>tei-titlepart {
+TEI-doctitle>TEI-titlepart {
   display: block;
   text-align: center;
 }
-tei-doctitle>tei-titlepart[type=main] {
+TEI-doctitle>TEI-titlepart[type=main] {
   font-size: 3em;
 }
-tei-doctitle>tei-titlepart[type=subtitle] {
+TEI-doctitle>TEI-titlepart[type=subtitle] {
   font-size: 2em;
 }
-tei-emph[rend=bold] {
+TEI-emph[rend=bold] {
   font-weight: bold;
 }
-tei-figure {
+TEI-figure {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
   text-align: center;
 }
-tei-figure>tei-p {
+TEI-figure>TEI-p {
   font-size: 80%;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
-tei-hi[rend=italics] {
+TEI-hi[rend=italics] {
   font-style: italic;
 }
-tei-l {
+TEI-l {
   display: block;
 }
-tei-lg {
+TEI-lg {
   display: block;
   margin-left: 5em;
 }
-tei-list[type=simple] {
+TEI-list[type=simple] {
   list-style-type: none;
 }
-tei-list[type=simple]>tei-item {
+TEI-list[type=simple]>TEI-item {
   display: list-item;
 }
-tei-p {
+TEI-p {
   display: block;
   margin-top: .5em;
   margin-bottom: .5em;
   text-align: justify;
 }
-tei-tei {
+TEI-TEI {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
-tei-text {
+TEI-text {
   display: block;
   width: 750px;
   margin: auto;
 }
-tei-titlepage {
+TEI-titlepage {
   display: block;
 }
 
 
 /* Règles concernant la description des corpus */
 
-tei-msDesc {
+TEI-msDesc {
     display: block;
     border-left: 2px outset gray;
     border-radius: 0px 5px 5px 0px;
@@ -109,7 +109,7 @@ tei-msDesc {
     max-width: 40em;
 }
 
-tei-bibl {
+TEI-bibl {
     display: block;
     border-left: 2px outset gray;
     border-radius: 0px 5px 5px 0px;
@@ -119,180 +119,180 @@ tei-bibl {
     max-width: 40em;
 }
 
-tei-msIdenfifier {
+TEI-msIdenfifier {
     display: block;
 }
 
-tei-settlement {
+TEI-settlement {
     display: inline;
 
 }
 
 
-tei-settlement:first-of-type::before {
-    display: inline;
-    content: ' ';
-    color: gray;
-}
-
-tei-settlement::after {
-    display: inline;
-    content: ',';
-}
-
-tei-settlement:last-child::after {
-    display: inline;
-    content: '.';
-}
-
-tei-repository {
-    display: inline;
-}
-
-tei-repository:first-of-type::before {
+TEI-settlement:first-of-type::before {
     display: inline;
     content: ' ';
     color: gray;
 }
 
-tei-repository::after {
+TEI-settlement::after {
     display: inline;
     content: ',';
 }
 
-tei-repository:last-child::after {
+TEI-settlement:last-child::after {
     display: inline;
     content: '.';
 }
 
-tei-collection {
+TEI-repository {
     display: inline;
 }
 
-tei-collection:first-of-type::before {
+TEI-repository:first-of-type::before {
     display: inline;
     content: ' ';
     color: gray;
 }
 
-tei-collection::after {
+TEI-repository::after {
     display: inline;
     content: ',';
 }
 
-tei-collection:last-child::after {
+TEI-repository:last-child::after {
     display: inline;
     content: '.';
 }
 
-tei-idno {
+TEI-collection {
     display: inline;
 }
 
-tei-idno:first-of-type::before {
+TEI-collection:first-of-type::before {
     display: inline;
     content: ' ';
     color: gray;
 }
 
-tei-idno::after {
+TEI-collection::after {
     display: inline;
     content: ',';
 }
 
-tei-idno:last-child::after {
+TEI-collection:last-child::after {
     display: inline;
     content: '.';
 }
 
-tei-altIdentifier {
+TEI-idno {
+    display: inline;
+}
+
+TEI-idno:first-of-type::before {
+    display: inline;
+    content: ' ';
+    color: gray;
+}
+
+TEI-idno::after {
+    display: inline;
+    content: ',';
+}
+
+TEI-idno:last-child::after {
+    display: inline;
+    content: '.';
+}
+
+TEI-altIdentifier {
     display: inline-block;
 }
 
-tei-altIdentifier::before {
+TEI-altIdentifier::before {
     display: inline-block;
     content: '[id. alt.]';
     color: gray;
 }
 
-tei-publisher {
+TEI-publisher {
     display: inline;
 }
 
-tei-publisher:first-of-type::before {
-    display: inline;
-    content: ' ';
-    color: gray;
-}
-
-tei-publisher::after {
-    display: inline;
-    content: ',';
-}
-
-tei-publisher:last-child::after {
-    display: inline;
-    content: '.';
-}
-
-tei-pubPlace {
-    display: inline;
-}
-
-tei-pubPlace:first-of-type::before {
+TEI-publisher:first-of-type::before {
     display: inline;
     content: ' ';
     color: gray;
 }
 
-tei-pubPlace::after {
+TEI-publisher::after {
     display: inline;
     content: ',';
 }
 
-tei-pubPlace:last-child::after {
+TEI-publisher:last-child::after {
     display: inline;
     content: '.';
 }
 
-tei-date {
+TEI-pubPlace {
     display: inline;
 }
 
-tei-date:first-of-type::before {
+TEI-pubPlace:first-of-type::before {
     display: inline;
     content: ' ';
     color: gray;
 }
 
-tei-date::after {
+TEI-pubPlace::after {
     display: inline;
     content: ',';
 }
 
-tei-date:last-child::after {
+TEI-pubPlace:last-child::after {
+    display: inline;
+    content: '.';
+}
+
+TEI-date {
+    display: inline;
+}
+
+TEI-date:first-of-type::before {
+    display: inline;
+    content: ' ';
+    color: gray;
+}
+
+TEI-date::after {
+    display: inline;
+    content: ',';
+}
+
+TEI-date:last-child::after {
     display: inline;
     content: '.';
 }
 
 
-tei-msDesc cite::after {
+TEI-msDesc cite::after {
     content: ',';
     font-style: normal;
 }
 
-tei-bibl cite::after {
+TEI-bibl cite::after {
     content: ',';
     font-style: normal;
 }
 
-tei-bibl cite:last-child::after {
+TEI-bibl cite:last-child::after {
     content: '.';
     font-style: normal;
 }
 
 
-tei-msDesc cite:last-child::after {
+TEI-msDesc cite:last-child::after {
     content: '.';
     font-style: normal;
 }
@@ -300,7 +300,7 @@ tei-msDesc cite:last-child::after {
 
 /*ajout lien hypertexte*/
 
-tei-ref:hover {
+TEI-ref:hover {
   color: #C39EA0;
   text-decoration: underline;
   cursor: pointer;
@@ -309,28 +309,28 @@ tei-ref:hover {
 
 /* Règles concernant les transcriptions des manuscrits */
 
-tei-rubric {
+TEI-rubric {
     display: block;
     color: brown;
 }
 
-tei-hi {
+TEI-hi {
     display: inline;
     font-size: 1.5em;
     color: brown;
 }
 
 
-tei-num {
+TEI-num {
     display: inline;
     font-variant: small-caps;
 }
 
-tei-note {
+TEI-note {
     display: none;
 }
 
-tei-pb::before {
+TEI-pb::before {
     display: inline-block;
     margin-top: 0.5em;
     padding-top: 0.5em;
@@ -345,7 +345,7 @@ tei-pb::before {
     color: gray;
 }
 
-tei-cb::before {
+TEI-cb::before {
     display: inline-block;
     max-width: 6em;
     margin-top: 0.5em;
@@ -361,31 +361,31 @@ tei-cb::before {
     color: gray;
 }
 
-tei-lb:after {
+TEI-lb:after {
   content: '\a';
   white-space: pre;
 }
 
-tei-expan {
+TEI-expan {
     display: inline;
 }
 
-tei-ex {
+TEI-ex {
     display: inline;
     font-style: italic;
 }
 
-tei-g {
+TEI-g {
     display: inline;
 }
 
-tei-g[type="exposant"] {
+TEI-g[type="exposant"] {
     font-size: 80%;
     vertical-align: super;
     position: relative;
     top: -0.4em;
 }
 
-tei-g[type="pied-de-mouche"]::before {
+TEI-g[type="pied-de-mouche"]::before {
     content: '❡';
 }
