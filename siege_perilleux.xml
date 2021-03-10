@@ -6,15 +6,17 @@
   <titleStmt>
       <title>Le Siege Perilleux</title>
    <respStmt>
-    <resp>This work is licensed under a Creative Commons Attribution 4.0 International License</resp>
+    <resp>Transcrit par</resp>
     <name>Girish Kumar Ramgulam</name>
    </respStmt>
   </titleStmt>
   <publicationStmt>
-   <distributor></distributor>
+   <availability>
+  <p>This is an open-access work licensed under a Creative Commons Attribution 4.0 International license.</p>
+   </availability>
   </publicationStmt>
   <sourceDesc>
-   <bibl></bibl>
+   <bibl>Paris, BnF, français 112</bibl>
   </sourceDesc>
  </fileDesc>
 </teiHeader>
@@ -28,7 +30,7 @@ Français 112 (3)" /> <cb n="3rb" />
 
        <rubric id="incipit">
            <lb/><ex>Comment</ex> M<ex>essire</ex> galaad vint le
-       <lb/>Jour de <ex>Pentecoste</ex> a Camelot r sassit au siege 
+       <lb/>Jour de <ex>Pentecoste</ex> a Camelot <ex>et</ex> sassit au siege 
        <lb/>perilleux ou nul ne sestoit encore assis por
        <lb/>les grans Dangiers qui y estoient que
        <lb/>nul depuis que la table ronde fut leuee
@@ -58,7 +60,7 @@ Français 112 (3)" /> <cb n="3va"/>
        <lb/>ne tint onques resne ceulx ains leur <ex>respon</ex>
        <lb/>dit qil nen droit ore plus Car il le sauro
        <lb/>ient bien atemps se ilz losoient demander
-       <lb/>Si vient aual du palais et troua <ex>qui cheualiers</ex>
+       <lb/>Si vient aual du palais et troua <ex>que cheualiers</ex>
        <lb/>que escuiez jusques a <num>xv</num> qui <ex>lactendoient</ex>
        <lb/>et lesqueulx estoient oluy Et il monte et se
        <lb/>part deleans en telle maniere quilz nesteu
@@ -66,7 +68,7 @@ Français 112 (3)" /> <cb n="3va"/>
        <lb/><g type="initiale">Q</g>vant ceulx du palais <ex>virent</ex> le <ex>cheualier</ex>
        <lb/>seoir au siege que tant de <ex>preudommez</ex>
        <lb/>auoient redoubte et ouquel dauentures 
-       <lb/>estoient sa aduenues s'en ont <ex>grant</ex> mer
+       <lb/>estoient ja aduenues sen ont <ex>grant</ex> mer
        <lb/>ueille Car ilz croient celluy <ex>homme</ex> si ne
        <lb/>sceurent que dire dont sigrant grace luy
        <lb/>est venue sice nest de la volente nostre seigneur. La
@@ -81,12 +83,12 @@ Français 112 (3)" /> <cb n="3va"/>
        <lb/>siege ou onques homs ne fut assis aqui il ne
        <lb/>fust mescheu en <ex>aucune</ex> maniere nemais ace
        <lb/>ftuy Si leseruent et honnourent detout ce
-       <lb/>quilz peuent <ex>comme</ex> celluy quilz se tiennent
+       <lb/>quilz peuent <ex>comme</ex> celluy quilz tiennent
        <lb/> aseigneur et amaistre par dessus ceulx de
        <lb/>latable ronde Et lancelot qui plus <ex>volontiers</ex>
-       <lb/>le regarde que nul des <ex>autres</ex> pour le mer
+       <lb/>le regarde que nul des <ex>autres</ex> pour la mer
        <lb/>ueille quil en a cognoist bien que cest cel
-       <lb/>luy quil fist huy <ex>chevalier</ex> nouuel s'en a moult
+       <lb/>luy quil fist huy <ex>chevalier</ex> nouuel sen a moult
        <lb/>grant joye Et pource luy fait legreigneur
        <lb/>honneur quil oncques peut Et lemet en
        <lb/>paroles demaintes choses et luy demande
@@ -95,7 +97,7 @@ Français 112 (3)" /> <cb n="3va"/>
        <lb/>Si lui respont maintesfois ace quil luy
        <lb/>demande Mais Boort qui tant en est lies
        <lb/>que nul plus et que bien cognoist que cest
-       <lb/>galaad lefilz lancelot cellui parcequi les <ex>auen</ex>
+       <lb/>galaad lefilz lancelot cellui parqui les <ex>auen</ex>
        <lb/>tures seront mises achief parla alionnel
        <lb/>son cousin frere et puis lui dist Biaux
        <lb/>freres saues vous qui est ce <ex>chevalier</ex>. Non fait
@@ -103,15 +105,15 @@ Français 112 (3)" /> <cb n="3va"/>
        <lb/>que <ex>messire</ex> lancelot fist hui <ex>chevalier</ex> nouvel
        <lb/>Et celluy qui entre moy et vous deismes
        <lb/>que messire lancelot engendra en la fille
-       <lb/>le Roy pescheur ainsi <ex>comme</ex> luy avoit sa
+       <lb/>le Roy pescheur ainsi <ex>comme</ex> luy avoit ja
        <lb/>compte par maintesfoiz et dist <ex>vrayement</ex>
        <lb/>fait Boort cest celluy et est <ex>nostre</ex> cousin pro
        <lb/>chain Et de ceste auenture deuons nous
        <lb/>estre bien lies Car nest mie doubte.
        <lb/>quil ne viengne encores aplus grant 
-       <lb/>chose que <ex>chevalier</ex> se onques rognensse
-       <lb/>Si a la tant laparole que lauoyne qui
-       <lb/>estoit en sa chambre enoy parles par vng
+       <lb/>chose que <ex>chevalier</ex> que je onques cogneusse
+       <lb/>Si a la tant laparole que laroyne qui
+       <lb/>estoit en sa chambre enoy parler par vng
        <lb/>varlet qui lui dist Dame merueilles
        <lb/>sont venues Comment fet elle dy lez moy
        <lb/>Parfoy fait il vngs <ex>chevalier</ex> est enu acouet
@@ -132,9 +134,9 @@ Français 112 (3)" /> <cb n="3va"/>
 Français 112 (3)" /> <cb n="4va"/>
        
        <lb/>auenture peut on apperceuoir que cest celluy
-       <lb/>Qui mectra les merueilles de la table ronde
+       <lb/>qui mectra les merueilles de la table ronde
        <lb/>affin Et par quy le Roy mehaignie receura
-       <lb/><ex>garison</ex>. 
+       <lb/>garison. 
 <lb/>  
 </div>
 </body>
