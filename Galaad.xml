@@ -44,11 +44,13 @@
        <lb/>et mainten<ex>ant</ex> yacoururent ceulx delacite po<ex>u</ex>r veoir  
        <lb/>la merueille delo<ex>m</ex>me mehaigne qui estoit re
        <lb/>dresse nouuellement.</p>    
-       <lb/><p><g type="initiale">Q</g><note resp="Shiyuan Ma">La lettrine couvre 2 lignes</note>uant les compaignons eure<ex>n</ex>t saitce q<ex>ue</ex>
+       <lb/><p><g type="initiale">Q</g><note resp="Shiyuan Ma">La lettrine couvre 2 lignes</note>uant les compaignons eure<ex>n</ex>t faitce q<ex>ue</ex>
        <lb/>co<ex>m</ex>mande leur estoit si reto<ex>u</ex>rnere<ex>n</ex>t aleaue 
-       <lb/>etentrerent en lanef ou la suer parceual estoit silaprene<ex>n</ex>t atout lelit et leporte<ex>n</ex>t aupalais et
+       <lb/>etentrerent en lanef ou la suer parceual estoit 
+       <lb/>silaprene<ex>n</ex>t atout lelit et leporte<ex>n</ex>t aupalais et
        <lb/>lenfoyrent si richement co<ex>mm</ex>e len deuoit faire
        <lb/>fille de Roy et de Royne Quant le Roy de la cite
+       <lb/>
        <pb n="181r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f369.item" /> <cb n="181rb"/>
        <lb/>qui auoit nom escorant vit les <num>iii</num> co<ex>m</ex>paignons
        <lb/>Sileur demanda dont ilz estoient et quel chose 
@@ -98,6 +100,7 @@
        <lb/>mesmes que galaad auoit porte cou
        <lb/>ronne, sise leua bien matin ent<ex>re</ex> luy et ses com
        <lb/>paignons Sivindrent au palais espirituel
+       <lb/>
        <pb n="181v" facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f370.item" /> <cb n="181va" /> 
        <lb/>Et Regarderent deuant lesaint vaissel. et virent
        <lb/>vng ho<ex>m</ex>me en semblance deuesque siestoit agenolz
@@ -131,6 +134,7 @@
        <lb/><p><g type="initiale">S</g><note resp="Shiyuan Ma">La lettrine couvre 2 lignes</note>i tost co<ex>m</ex>me galaad eust fait ceste req<ex>ue</ex>ste 
        <lb/>Lepreudoms qui estoit vestu en sem
        <lb/>blance deuesque print <foreign xml:lang="lat">Corpus d<ex>o</ex>m<ex>ini</ex></foreign> sur la
+       <lb/>
        <pb n="181r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f369.item" /> <cb n="181rb" /> 
        <lb/>table Si loffrist agalaad Etcil le receut etqua<ex>n</ex>t 
        <lb/>jl lot vse lepreudoms luy dist Scez tu qui je 
@@ -140,7 +144,8 @@
        <lb/>toy faire compaignie Et sces tu pourquoy 
        <lb/>jl my aenuoye plustost que nul aut<ex>re</ex> pour 
        <lb/>ce que tu me ressambles en /<num>ii</num>/ choses </p>
-  </div>
+ <lb/>
+      </div>
  </body>
 </text>
 </TEI>
