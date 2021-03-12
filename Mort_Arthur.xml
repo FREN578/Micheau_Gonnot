@@ -23,13 +23,13 @@
   <body>
    <div>
        <pb n="229v" facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f369.item" 
-             /> 
+             />      <cb n="229vb"/>    
        <rubric> <lb/>Comm<ex>e</ex>nt 
            <lb/>girflet porta lespee du roy artus au lac que
            <lb/>le roy luy auoit commande. et morgain la 
            <lb/>fee emmena le roy art<ex>us</ex> po<ex>ur</ex> le guerir de sa playe
 </rubric>
-       <cb n="229vb"/>     
+   
        
        <note resp="Christopher Umenyi"> Il y a une illustration de 17 lignes du porteur de l’épée</note>
             <note resp="Christopher Umenyi">Une lettrine initiale Q couvrant 2 lignes</note>    
