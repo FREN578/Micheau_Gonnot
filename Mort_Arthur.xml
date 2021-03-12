@@ -22,8 +22,8 @@
  <text>
   <body>
    <div>
-         <pb facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f369.item 
-             n=229v"/> 
+       <pb n="229v" facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f369.item" 
+             /> 
        <rubric> <lb/>Coṁm<ex>e</ex>nt 
            <lb/>girflet porta lespee du roy artus au lac que
            <lb/>le roy luy avoit commande. et morgain la 
@@ -34,7 +34,7 @@
        <note resp="Christopher Umenyi"> Il y a une illustration de 17 lignes du porteur de l’épée</note>
             <note resp="Christopher Umenyi">Une lettrine initiale Q couvrant 2 lignes</note>    
        
-                <lb/><cb/><g type="initiale">Q</g>uant girflet voit que faire luy co<ex>n</ex>vie<ex>n</ex>t
+                <lb/><g type="initiale">Q</g>uant girflet voit que faire luy co<ex>n</ex>vie<ex>n</ex>t
 <lb/>si revint arrie<ex>re</ex> ou lespee estoit si la 
 <lb/>prent et la comence a regarder et a plaindre 
 <lb/>moult durement et dist tout en plourant 
@@ -57,7 +57,8 @@
        <lb/>auoit veu parfoy fait le roy ce pensoye je bi<ex>e</ex>n
  
     <note resp="Christopher Umenyi"> Le titre suivant se trouve en en haut du folio 230r : Messire lancelot du lac <num>cciii</num></note>
-<lb/><pb /> <cb n="fol.230 1ra" />  car ma fin approche durement. lors co<ex>m</ex>menca a 
+       <lb/><pb n="230r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f370.item" />  
+       <cb n="fol. 230ra" />  car ma fin approche durement. lors co<ex>m</ex>menca a 
 <lb/>penser et en cel pencer luy vindrent les lermes
 <lb/>aux yeulx Et quant il a grant piece pense il dist 
 <lb/>a girflet Il vous en convient aler de cy et partir 
