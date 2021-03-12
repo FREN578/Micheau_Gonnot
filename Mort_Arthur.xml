@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
  <fileDesc>
   <titleStmt>
@@ -32,7 +32,7 @@
        <cb n="229vb"/>     
        
        <note resp="Christopher Umenyi"> Il y a une illustration de 17 lignes du porteur de l’épée</note>
-            <note resp="Christopher Umenyi">Une lettrine initiale Q couvrant 2 lignesnote>    
+            <note resp="Christopher Umenyi">Une lettrine initiale Q couvrant 2 lignes</note>    
        
                 <lb/><cb/><g type="initiale">Q</g>uant girflet voit que faire luy co<ex>n</ex>vie<ex>n</ex>t
 <lb/>si revint arrie<ex>re</ex> ou lespee estoit si la 
@@ -75,7 +75,7 @@
 <lb/>en dicy vistement Car du demorer ny a il 
 <lb/>point Et je le vous pry par celle foy et par celle
 <lb/>amour qui a este entr<ex>e</ex> moy et vous 
- <note resp="Christopher Umenyi"> Il y a une ligne courte et décorée marquant la fin du paragraphe<note>
+ <note resp="Christopher Umenyi"> Il y a une ligne courte et décorée marquant la fin du paragraphe</note>
 <note resp="Christopher Umenyi"> Une lettrine initiale Q couvrant 2 lignes</note>
      <lb/><g type="initiale">Q</g>uant girflet entent que le roy lemprie
 <lb/>si doucement il respont Sire puis quil 
