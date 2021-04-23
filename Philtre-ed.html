@@ -48,9 +48,9 @@
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-							<h1>Tristan et Iseult boivent le philtre - Traduction moderne</h1>
+							<h1>Tristan et Iseult boivent le philtre - Transcription interprétative</h1>
 							<span class="image main"><img src="images/Philtre.png" alt="BnF, français 112, vol. 1, fol. 239" /></span>
-                            
+                         
                             <ul class="actions">
 										
 										<li><a href="Philtre.html" class="button">Retour</a></li>
@@ -94,7 +94,7 @@
         var CETEIcean = new CETEI()
 
 
-    CETEIcean.getHTML5('philtre-trad.xml', function(data){
+    CETEIcean.getHTML5('philtre-ed.xml', function(data){
         document.getElementById("cetei").innerHTML ="";
         document.getElementById("cetei").appendChild(data);
         CETEIcean.addStyle(document, data);
