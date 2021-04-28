@@ -46,23 +46,25 @@
 					</nav>
 
 				<!-- Main -->
-                
-                <div id="main">
+					<div id="main">
 						<div class="inner">
-							<h1>La mort de Tristan</h1>
-                            
-                            <ul class="actions fit">
-										<li><a href="Mort_Tristan-trans.html" class="button fit">Transcription diplomatique</a></li>
-								        <li><a href="Mort_Tristan-ed.html" class="button fit">Édition</a></li>
-                                        <li><a href="Mort_tristan-trad.html" class="button fit">Traduction en français moderne</a></li>
+							<h1>La mort de Tristan - Transcription diplomatique</h1>
+							<span class="image main"><img src="images/Mort_de_Tristan.png" alt="BnF, français 112, vol. 3, fol. 144r." /></span>
+                         
+                            <ul class="actions">
+										
+										<li><a href="Mort_Tristan.html" class="button">Retour</a></li>
 									</ul>
                             
-							<span class="image main"><img src="images/Mort_de_Tristan.png" alt="BnF, français 112, vol. 3, fol. 144r." /></span>
-                
+				  <div id="cetei">
+
+
+
+
+                </div>
                             
 						</div>
 					</div>
-
 
                
                 
@@ -86,9 +88,18 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
-   
+                <script src="assets/js/CETEI.js"></script>
         
+	<script>
+        var CETEIcean = new CETEI()
 
+
+    CETEIcean.getHTML5('philtre.xml', function(data){
+        document.getElementById("cetei").innerHTML ="";
+        document.getElementById("cetei").appendChild(data);
+        CETEIcean.addStyle(document, data);
+    });
+  </script>
         
 	</body>
 </html>
