@@ -41,7 +41,15 @@
 						<h2>Menu</h2>
 						<ul>
 							<li><a href="index.html">Home</a></li>
-
+                            <li><a href="fiche_codicologique_Paris_BnF_fr_112.html">Description du manuscrit</a></li>
+                            <li><a href="principes.html">Principes de transcription</a></li>
+                            <li><a href="Philtre.html">Tristan et Iseut boivent le philtre</a></li>
+                            <li><a href="Mort_Tristan.html">La mort de Tristan</a></li>
+                            <li><a href="Siege_Perilleux.html">Galaad et le Siège Périlleux</a></li>
+                            <li><a href="Graal.html">L'apparition du Graal</a></li>
+                            <li><a href="Mort_Galaad.html">La fin de Galaad</a></li>
+                            <li><a href="Mort_Arthur.html">La fin d'Arthur</a></li>
+							
 						</ul>
 					</nav>
 
@@ -49,14 +57,16 @@
 					<div id="main">
 						<div class="inner">
 							<h1>La fin d'Arthur</h1>
-							<span class="image main"><img src="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8527589h/f13/441.38098898742,5982.389016018307,4444.303203661327,773.2917620137305/523,91/0/native.jpg" alt="BnF, français 112, vol. 3, fol. 5r" /></span>
                             
-				  <div id="cetei">
-
-
-
-
-                </div>
+                            <ul class="actions fit">
+										<li><a href="Mort_Arthur-trans.html" class="button fit">Transcription diplomatique</a></li>
+								        <li><a href="Mort_Arthur-ed.html" class="button fit">Édition</a></li>
+                                        <li><a href="Mort_Arthur-trad.html" class="button fit">Traduction en français moderne</a></li>
+									</ul>
+                            
+							<span class="image main"><img src="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8527589h/f456/2592.6815241695062,1923.3262350936968,2261.6311754684843,1785.498296422487/361,285/0/native.jpg" alt="BnF, français 112, vol. 3, fol. 229vr" /></span>
+                       
+                
                             
 						</div>
 					</div>
@@ -83,18 +93,9 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
-                <script src="assets/js/CETEI.js"></script>
+   
         
-	<script>
-        var CETEIcean = new CETEI()
 
-
-    CETEIcean.getHTML5('Mort_Arthur.xml', function(data){
-        document.getElementById("cetei").innerHTML ="";
-        document.getElementById("cetei").appendChild(data);
-        CETEIcean.addStyle(document, data);
-    });
-  </script>
         
 	</body>
 </html>
