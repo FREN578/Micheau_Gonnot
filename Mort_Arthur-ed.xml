@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+      <title>Arthur mourant veut rendre Excalibur au lac</title>
+   <respStmt>
+    <resp>édité par</resp>
+       <name>Christopher Umenyi</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+      <availability>This is an open access work licensed under a creative commons Attribution 4.0 International License</availability>
+   <distributor></distributor>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>Paris,BNF, français 112 </bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+ 
+ <text>
+  <body>
+   <div>
+       <pb n="229v" facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f369.item" 
+             />      <cb n="229vb"/>    
+       
+       
+       <pb n="230r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f370.item" />  
+       <cb n="fol. 230ra" />
+       
+       
+       <pb n="230r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8527589h/f371.item" />  <cb n="fol.230 1rb"/>
+       
+       
+       
+          </div>
+</body>
+</text>
+</TEI>
