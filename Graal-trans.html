@@ -52,25 +52,27 @@
 							
 						</ul>
 					</nav>
-
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-							<h1>La première apparition du Graal à la cour d'Arthur</h1>
+							<h1>Première apparition du Graal - transcription diplomatique</h1>
+							<span class="image main"><img src="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8527589h/f13/821.1292972149695,2378.708442123586,3451.712793733681,1299.2402088772847/534,201/0/native.jpg" alt="BnF, français 112, vol. 3, fol. 5r" /></span>
                             
-                            <ul class="actions fit">
-										<li><a href="Graal-trans.html" class="button fit">Transcription diplomatique</a></li>
-								        <li><a href="Graal-ed.html" class="button fit">Édition</a></li>
-                                        <li><a href="Graal-trad.html" class="button fit">Traduction en français moderne</a></li>
+				 <ul class="actions">
+										
+										<li><a href="Graal.html" class="button">Retour</a></li>
 									</ul>
                             
-							<span class="image main"><img src="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8527589h/f13/821.1292972149695,2378.708442123586,3451.712793733681,1299.2402088772847/534,201/0/native.jpg" alt="BnF, français 112, vol. 3, fol. 5r" /></span>
-                
+                 <div id="cetei">
+
+
+
+
+                </div>
                             
 						</div>
 					</div>
 
-               
                 
 				<!-- Footer -->
 					<footer id="footer">
@@ -92,9 +94,18 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
-   
+                <script src="assets/js/CETEI.js"></script>
         
+	<script>
+        var CETEIcean = new CETEI()
 
+
+    CETEIcean.getHTML5('Graal.xml', function(data){
+        document.getElementById("cetei").innerHTML ="";
+        document.getElementById("cetei").appendChild(data);
+        CETEIcean.addStyle(document, data);
+    });
+  </script>
         
 	</body>
 </html>
